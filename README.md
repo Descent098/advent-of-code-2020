@@ -1,3 +1,5 @@
+**I Gave up on this very quickly as the advent of code challenges are essentially legacy code support challenges**
+
 # Advent of Code 2020 Solutions
 My [Advent of code 2020](https://adventofcode.com/2020) solutions
 
